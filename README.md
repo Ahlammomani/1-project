@@ -1,6 +1,7 @@
 # project--1
 # My Portfolio
 mockup link:[https://www.figma.com/design/nmWRkR8a35EFv2eujOgE91/PROJECT-1?node-id=0-1&p=f&t=FGWg1JumsqPb7DqV-0]
+the URL:[https://ahlammomani.github.io/1-project/]
 ## Projects
 
 ### 1. *Project: Coffee Shop Mockup*
